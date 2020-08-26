@@ -1,5 +1,5 @@
 func printUsage() {
-    print("Usage: SwiftUtils [lower|upper] foo.txt")
+    print("Usage: swift run SwiftUtils [lower|upper] foo.txt")
 }
 if CommandLine.arguments.count != 3 {
     printUsage()
