@@ -16,4 +16,5 @@ swift run SwiftUtils
 ```bash
 cd SwiftUtils
 swift run SwiftUtils upper ./Data/fox-lower.txt 
+swift test 
 ```
